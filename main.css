@@ -1,0 +1,12 @@
+header {
+    background-color: #111;
+}
+
+.colored-toast.swal2-icon-success {
+    background-color: #a5dc86 !important;
+    color: white !important;
+}
+
+header p {
+    color: white !important;
+}
